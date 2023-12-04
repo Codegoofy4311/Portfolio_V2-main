@@ -16,7 +16,7 @@ const Works = () => {
             <WorkGridItems
               src="https://www.behance.net/gallery/183305525/IEEE-LEAD-40"
               title="LEAD 4.0"
-              thumbnail="/images/works/lead_4.0.png"
+              thumbnail="/images/works/LEAD4.png"
             >
               Created for my club IEEE. For the LEAD 4.0 event. Where we, the
               K22 acted as our personal mentors for 3-weeks to help us create
